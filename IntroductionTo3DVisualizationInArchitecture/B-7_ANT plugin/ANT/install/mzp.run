@@ -1,0 +1,7 @@
+name "ANT for Animation"
+Alpha version 0.5.1
+
+extract to "$temp/Ant"
+run "install.ms"
+drop "install.ms"
+clear temp
