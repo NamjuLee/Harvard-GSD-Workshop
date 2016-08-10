@@ -1,0 +1,12 @@
+Adobe After Effects v13.5 Windows 64 render log for project “JSX_Start.aep”
+
+Rendering started on 2/20/2016 at 3:53:32 PM
+
+  2/20/2016 3:53:32 PM: Starting composition “theComp”.
+
+  Output To: C:\Users\User\Desktop\theComp.mov    2/20/2016 3:55:00 PM: Finished composition “theComp”.
+
+
+  Total Time Elapsed: 1 Min, 28 Sec
+Log closed on 2/20/2016 at 3:55:00 PM
+
