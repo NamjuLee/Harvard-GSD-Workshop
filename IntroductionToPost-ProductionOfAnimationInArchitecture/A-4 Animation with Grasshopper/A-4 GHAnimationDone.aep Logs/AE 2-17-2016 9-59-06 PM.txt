@@ -1,0 +1,12 @@
+Adobe After Effects v13.5 Windows 64 render log for project “A-4 GHAnimationDone.aep”
+
+Rendering started on 2/17/2016 at 9:59:06 PM
+
+  2/17/2016 9:59:06 PM: Starting composition “RhinoAnimation”.
+
+  Output To: C:\Users\User\Desktop\RhinoAnimation.mov    2/17/2016 9:59:09 PM: Finished composition “RhinoAnimation”.
+
+
+  Total Time Elapsed: 3 Seconds
+Log closed on 2/17/2016 at 9:59:09 PM
+

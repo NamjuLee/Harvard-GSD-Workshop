@@ -1,0 +1,12 @@
+Adobe After Effects v13.5 Windows 64 render log for project “[exercise_one].aep”
+
+Rendering started on 2/25/2016 at 6:43:22 PM
+
+  2/25/2016 6:43:22 PM: Starting composition “[Completion by Collapse]”.
+
+  Output To: Z:\[02 Lecture]\2016_02_Post-Production_Workshop Harvard University\[2016_IntroductionToPostProduction_Workshop]\고니\[Completion by Collapse]\[Completion by Collapse]_[#####].jpg    2/25/2016 6:44:52 PM: Finished composition “[Completion by Collapse]”.
+
+
+  Total Time Elapsed: 1 Min, 30 Sec
+Log closed on 2/25/2016 at 6:44:52 PM
+
