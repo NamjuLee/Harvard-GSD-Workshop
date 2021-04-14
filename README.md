@@ -10,6 +10,7 @@ If you need to get entire exercise files, please contact me nj.namju@gmail.com
 
 [![YouTube ](/image/video.png)](https://www.youtube.com/watch?v=3VeLfmt2N-0) 
 
+Link - http://www.njstudio.co.kr/njstudioIndex.html
 
 ### Introduction To 3DVisualization
 * 
