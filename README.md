@@ -1,4 +1,4 @@
-# workshop at Harvard Graduate School of Design
+# Workshop at Harvard Graduate School of Design
 
 Please use this content only for educational purpose, not for commercial one
 
